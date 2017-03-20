@@ -3,5 +3,5 @@ Introduction to GitHub
 
 What happens if I change only the text in here
 
-Here's another change...does it prompt a reconciliation?
+I overwrote something in line 6. This may cause a conflict. Let's test it out.
 
