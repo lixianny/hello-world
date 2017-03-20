@@ -1,5 +1,4 @@
 # hello-world
 Introduction to GitHub
 
-This is my first entry in GitHub
-Added some more text
+What happens if I change only the text in here
